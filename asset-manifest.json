@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/packingList/static/css/main.10a2aefb.css",
+    "main.js": "/packingList/static/js/main.e8d8ffd8.js",
+    "index.html": "/packingList/index.html",
+    "main.10a2aefb.css.map": "/packingList/static/css/main.10a2aefb.css.map",
+    "main.e8d8ffd8.js.map": "/packingList/static/js/main.e8d8ffd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a2aefb.css",
+    "static/js/main.e8d8ffd8.js"
+  ]
+}
